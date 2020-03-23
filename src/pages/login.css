@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito&display=swap');
+body{
+    background-color: gray;
+}
+#HelpLogo {
+    font-size:20vh;
+    color: greenyellow;
+  }
+#name{
+    font-family: 'Nunito', sans-serif;
+    margin-top:25vh;
+    font-size:5vh;
+    text-align: center;
+  }
+#LoginLogo{
+    height: 10vh;
+}
+#LoginIcon{
+    text-align:left;
+}
+#LoginCenter{
+    text-align:center;
+}
+#buttonG{
+    margin-top:20vh;
+    font-family: 'Nunito', sans-serif;
+}
+#button2{
+    font-family: 'Nunito', sans-serif;
+}
